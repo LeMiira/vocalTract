@@ -1,5 +1,5 @@
-import { AudioData } from "@/pages/home";
-import { Button } from "@/components/ui/button";
+import { AudioData } from "../pages/home";
+import { Button } from "../components/ui/button";
 import { Mic, MicOff } from "lucide-react";
 
 interface ControlPanelProps {

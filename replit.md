@@ -1,6 +1,6 @@
 # Overview
 
-This is a voice training analyzer application built with React and Express that provides real-time vocal tract visualization. The app captures audio input from the user's microphone, analyzes vocal characteristics like pitch and frequency distribution, and visualizes the vocal tract in real-time to help with voice training exercises. It features a modern UI built with shadcn/ui components and uses audio processing techniques to analyze vocal patterns.
+This is a voice training analyzer application built with React that provides real-time vocal tract visualization for gender-affirming voice practice. The app captures audio input from the user's microphone, analyzes vocal characteristics like pitch and frequency distribution, and visualizes the vocal tract in real-time to help with voice training exercises. It features a modern UI built with shadcn/ui components and uses audio processing techniques to analyze vocal patterns. The application is now configured as a frontend-only app optimized for deployment on Vercel, Netlify, or GitHub Pages.
 
 # User Preferences
 

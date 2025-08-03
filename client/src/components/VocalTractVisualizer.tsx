@@ -1,4 +1,4 @@
-import { AudioData } from "@/pages/home";
+import { AudioData } from "../pages/home";
 
 interface VocalTractVisualizerProps {
   audioData: AudioData;
