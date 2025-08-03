@@ -1,7 +1,7 @@
 import { useState } from "react";
-import AudioAnalyzer from "@/components/AudioAnalyzer";
-import VocalTractVisualizer from "@/components/VocalTractVisualizer";
-import ControlPanel from "@/components/ControlPanel";
+import AudioAnalyzer from "../components/AudioAnalyzer";
+import VocalTractVisualizer from "../components/VocalTractVisualizer";
+import ControlPanel from "../components/ControlPanel";
 
 export interface AudioData {
   pitch: number;

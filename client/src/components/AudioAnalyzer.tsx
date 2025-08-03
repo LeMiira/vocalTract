@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
-import { AudioData } from "@/pages/home";
-import { initializeAudioContext, analyzeAudio, calculatePitch, calculateSpectralFeatures } from "@/lib/audioUtils";
+import { AudioData } from "../pages/home";
+import { initializeAudioContext, analyzeAudio, calculatePitch, calculateSpectralFeatures } from "../lib/audioUtils";
 
 interface AudioAnalyzerProps {
   onAudioData: (data: AudioData) => void;
